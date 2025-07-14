@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portofolio_Pemrograman_Web_202312055
 
 # Portofolio Pemrograman Web - 202312055
@@ -120,3 +121,6 @@ Jika ada pertanyaan atau masukan, silakan hubungi saya:
 Proyek ini merupakan kumpulan hasil praktikum Pemrograman Web sebagai bagian dari kegiatan akademik di STITEK Bontang.
 
 © 2025 – Disusun oleh Lutfi Mulia.
+=======
+# Portofolio_Pemrograman_Web_202312055
+>>>>>>> 1c05f1bb060cf44a0a23e685487a45e452d64e51
